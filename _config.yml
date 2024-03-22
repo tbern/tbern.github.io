@@ -1,4 +1,4 @@
-title: Tessa Berning
+# title: Tessa Berning
 # logo: relative path to image
 # description: text below the photo
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
