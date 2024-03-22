@@ -1,4 +1,3 @@
-# Tessa Berning
 Dubuqe, IA | University of Notre Dame
 
 ### About Me
